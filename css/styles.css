@@ -5,8 +5,19 @@ body {
 	background:#9FF;
 }
 
-img.pink {
-	
-	width: 50px;
-	height: 10px;
+h1 {
+	color:#600;
+	text-size: 30px;
+	text-align:center;
+}
+
+h3 {
+	color:#960;
+}
+
+/*Navigation styling*/
+nav li {
+	float: left;
+	list-style: none;
+	margin: 0 10px 0 10px;
 }
